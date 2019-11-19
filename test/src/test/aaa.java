@@ -4,7 +4,7 @@ class Bike {
 	int speed = 30;
 
 	void run() {
-		System.out.println("cycling");
+		System.out.println("cyclizng");
 	}
 }
 
